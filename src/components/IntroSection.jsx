@@ -12,8 +12,7 @@ const IntroSection = () => {
       </Link>
       <h2 className="mt-4 text-4xl font-semibold">Full Stack Web Developer</h2>
       <p className="mt-10 text-3xl text-gray-400 w-3/4">
-        I build accessible, inclusive products and digital experiences for the
-        web.
+        I build amazing and valuable projects for the web.
       </p>
     </div>
   )
