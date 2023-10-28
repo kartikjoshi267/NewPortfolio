@@ -49,7 +49,7 @@ export const projects = [
     image: blogSiteImg,
     url: 'https://blogsite-server-aauw.onrender.com',
     githubRepo: 'https://github.com/kartikjoshi267/BlogSite',
-    description: `A blogging website, built using M E R N stack, is a platform where people can write blogs and share their experiences and ideas with other people in the community. The editor in the application is a rich text editor that makes the writing experience more efficient.`,
+    description: `A blogging website, built using M E R N stack, is a platform where people can write blogs and share their experiences and ideas with other people in the community. The editor in the application is a rich text editor that makes the writing experience more efficient. (The web application is hosted on a free server so it takes a lot of time to load)`,
     languages: [
       'React.js',
       'Node.js',
@@ -64,7 +64,7 @@ export const projects = [
     image: chatAppImg,
     url: 'https://chat-app-service-fjeh.onrender.com',
     githubRepo: 'https://github.com/kartikjoshi267/BlogSite',
-    description: `This real-time chat application is a web application built using M E R N stack. It offers real time chatting functionality with friends along with searching other users.`,
+    description: `This real-time chat application is a web application built using M E R N stack. It offers real time chatting functionality with friends along with searching other users. (The web application is hosted on a free server so it takes a lot of time to load)`,
     languages: [
       'React.js',
       'Node.js',
