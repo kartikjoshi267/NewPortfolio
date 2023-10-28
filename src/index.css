@@ -18,15 +18,15 @@ body {
 }
 
 ::-webkit-scrollbar {
+  background: transparent;
   width: 10px;
 }
 
 ::-webkit-scrollbar-thumb {
   border-radius: 10px;
-  background: #00ff5160;
-  transition: 3s ease background;
+  background: #012b8f60;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #00ff1a;
+  background: #012b8f;
 }

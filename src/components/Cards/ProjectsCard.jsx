@@ -5,10 +5,10 @@ import Tags from '../Tags'
 
 const ProjectsCard = ({ project }) => {
   return (
-    <a href={project.githubRepo} target='_blank' className='group/project-card flex flex-row gap-5 items-start justify-between h-max w-[100%] duration-150 bg-[#1738295d] lg:bg-transparent lg:hover:bg-[#1738295d] hover:!opacity-100 lg:group-hover:opacity-50 p-7 rounded-lg'>
+    <a href={project.githubRepo} target='_blank' className='group/project-card flex flex-row gap-5 items-start justify-between h-max w-[100%] duration-150 bg-[#2231a35d] lg:bg-transparent lg:hover:bg-[#2231a35d] hover:!opacity-100 lg:group-hover:opacity-50 p-7 rounded-lg'>
       <img src={project.image} className='w-1/4 h-[75px] rounded-lg border-2 border-transparent lg:group-hover/project-card:border-gray-400 duration-150' />
       <div className='flex flex-col gap-5 w-3/4'>
-        <h4 className='text-3xl font-semibold lg:group-hover/project-card:text-teal-400 duration-150'>
+        <h4 className='text-3xl font-semibold lg:group-hover/project-card:text-[#3aebff] duration-150'>
           {project.name}
           &nbsp;&nbsp;
           <FontAwesomeIcon className='lg:group-hover/project-card:translate-x-3 text-2xl duration-150' icon={faArrowRight} />

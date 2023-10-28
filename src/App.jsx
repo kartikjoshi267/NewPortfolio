@@ -10,7 +10,7 @@ function App() {
     const { clientX, clientY } = event;
 
     setTimeout(() => {
-      spotlightEl.style.background = `radial-gradient(circle at ${clientX}px ${clientY}px, #01632d6a 20px, #104420 400px)`
+      spotlightEl.style.background = `radial-gradient(circle at ${clientX}px ${clientY}px, #011957 20px, #000d2b 400px)`
     }, 100);
 
   }
