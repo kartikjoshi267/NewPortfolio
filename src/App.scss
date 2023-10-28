@@ -1,0 +1,29 @@
+// .heading {
+  // -webkit-text-stroke: 1px whitesmoke;
+  // color: transparent;
+// }
+
+// *::selection {
+//   -webkit-text-stroke: transparent;
+// }
+
+#spotlight {
+  position: fixed;
+  opacity: 1;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  z-index: -1;
+}
+
+#cursor{
+  width: 35px;
+  height: 35px;
+  border: 2px solid white;
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  border-radius:50%;
+}
