@@ -2,7 +2,7 @@ import './App.scss'
 import { Route, Routes } from 'react-router-dom'
 import Layout from './components/Layout'
 import { useEffect } from 'react'
-import withSplashScreen from './components/hoc/SplashScreen'
+import withSplashScreen from './components/hocs/SplashScreen'
 
 function App() {
   function handleMouseMove(event) {
