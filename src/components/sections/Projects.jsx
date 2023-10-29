@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import ProjectsCard from '../cards/ProjectsCard'
+import ProjectsCard from '../card/ProjectsCard'
 import { projects } from '../../constants'
 
 const Projects = () => {
