@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
-import LeftSideContainer from './LeftSideContainer'
-import RightSideContainer from './RightSideContainer'
+import LeftSideContainer from './mainContainers/LeftSideContainer'
+import RightSideContainer from './mainContainers/RightSideContainer'
 import { navLinks } from '../constants'
 
 const Layout = () => {
