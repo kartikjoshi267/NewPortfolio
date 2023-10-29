@@ -17,7 +17,7 @@ export const navLinks = [
   },
   {
     name: 'SKILLS',
-    path: ['/#skill'],
+    path: ['/#skills'],
   },
   {
     name: 'PROJECTS',

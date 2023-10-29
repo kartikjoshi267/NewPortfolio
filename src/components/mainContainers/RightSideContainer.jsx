@@ -5,6 +5,7 @@ import Contact from '../sections/Contact'
 import SectionHeading from '../miscellaneous/SectionHeading'
 import AboutSection from '../sections/AboutSection'
 import Footer from '../sections/Footer'
+import Skills from '../sections/Skills'
 
 const RightSideContainer = () => {
   return (
@@ -20,6 +21,11 @@ const RightSideContainer = () => {
       <section id="experience" className="mb-40">
       <SectionHeading text={"Experience"} />
         <Experiences />
+      </section>
+
+      <section id="skills" className="mb-40">
+      <SectionHeading text={"Skills"} />
+        <Skills />
       </section>
 
       <section id="projects" className="mb-28">
