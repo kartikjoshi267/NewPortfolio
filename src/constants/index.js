@@ -67,7 +67,7 @@ export const projects = [
     name: 'ChatApp',
     image: chatAppImg,
     url: 'https://chat-app-service-fjeh.onrender.com',
-    githubRepo: 'https://github.com/kartikjoshi267/BlogSite',
+    githubRepo: 'https://github.com/kartikjoshi267/mern-chat-app',
     description: `This real-time chat application is a web application built using M E R N stack. It offers real time chatting functionality with friends along with searching other users. (The web application is hosted on a free server so it takes a lot of time to load)`,
     languages: [
       'React.js',
