@@ -100,3 +100,5 @@ const experiences = [
 
 experiences.reverse()
 export { experiences }
+
+export const resumeLink = "https://drive.google.com/file/d/1WiapBjZh2Rn0kEjgv84Y5w_QTPE6-gnk/view?usp=drive_link";
