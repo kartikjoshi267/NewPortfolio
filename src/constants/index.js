@@ -6,6 +6,9 @@ import {
 import chatAppImg from '../assets/images/chatapp.png'
 import blogSiteImg from '../assets/images/blogsite.png'
 import discordImg from '../assets/images/discord.png'
+import * as skillIcons from './skills'
+
+export const skills = Object.values(skillIcons);
 
 export const navLinks = [
   {
