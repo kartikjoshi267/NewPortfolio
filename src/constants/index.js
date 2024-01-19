@@ -5,6 +5,7 @@ import {
 } from '@fortawesome/free-brands-svg-icons'
 import chatAppImg from '../assets/images/chatapp.png'
 import blogSiteImg from '../assets/images/blogsite.png'
+import discordImg from '../assets/images/discord.png'
 
 export const navLinks = [
   {
@@ -79,6 +80,22 @@ export const projects = [
       'Socket.IO',
     ],
   },
+  {
+    name: 'Discord Clone',
+    image: discordImg,
+    url: '',
+    githubRepo: 'https://github.com/kartikjoshi267/discord-clone',
+    description: `This real-time chat application is a web application built using Next.js. It offers real time chatting functionality with friends and also allows users to create servers and channels and manage them. Also there is a functionality for video and voice calls.`,
+    languages: [
+      'React.js',
+      'Next.js',
+      'TypeScript',
+      'MySQL',
+      'Prisma',
+      'Tailwind CSS',
+      'Socket.IO',
+    ],
+  },
 ]
 
 const experiences = [
@@ -95,6 +112,13 @@ const experiences = [
     start: 'MAY 2023',
     end: 'JUL 2023',
     description: `Open source contribution encourages collaboration among developers around the world. Contributing to open source projects is an excellent way to enhance your programming skills. Potential employers or clients often look for evidence of your ability to work in a team, write quality code, and contribute to open source projects.`,
+  },
+  {
+    designation: 'Web Development Intern',
+    organization: 'Seequenze Technologies Pvt. Ltd.',
+    start: 'JAN 2024',
+    end: 'PRESENT',
+    description: ``,
   },
 ]
 
