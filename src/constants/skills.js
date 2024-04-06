@@ -23,4 +23,6 @@ export {
   SocketioOriginal,
   NextjsOriginal,
   PostgresqlOriginal,
+  JenkinsOriginal,
+  FigmaOriginal,
 } from 'devicons-react'

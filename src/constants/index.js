@@ -120,8 +120,8 @@ const experiences = [
     designation: 'Web Development Intern',
     organization: 'Seequenze Technologies Pvt. Ltd.',
     start: 'JAN 2024',
-    end: 'PRESENT',
-    description: ``,
+    end: 'MAR 2024',
+    description: `Addressed bugs and introduced new features like integration of GitHub and Google OAuth. Worked on error handling tasks. Worked on AWS S3 to optimize data storage and retrieval processes within Necleo. Worked with DynamoDB to store some essential details with varied schema. Worked on code generation figma plugin for Necleo. Helped in re-designing the UI of the plugin. Involved in development of a Jenkins pipeline.`,
   },
 ]
 
