@@ -6,6 +6,7 @@ import {
 import chatAppImg from '../assets/images/chatapp.png'
 import blogSiteImg from '../assets/images/blogsite.png'
 import discordImg from '../assets/images/discord.png'
+import myKhataImg from '../assets/images/mykhata.png'
 import * as skillIcons from './skills'
 
 export const skills = Object.values(skillIcons);
@@ -52,6 +53,22 @@ export const socialHandles = [
 ]
 
 export const projects = [
+  {
+    name: 'MyKhata',
+    image: myKhataImg,
+    url: 'https://expense-tracker-frontend-production-cd49.up.railway.app/',
+    githubRepo: 'https://github.com/kartikjoshi267/expense-tracker',
+    description: `An expense tracker utility for creating and managing your expenses. It is a full stack web application built using M E R N stack. It allows users to add, delete and update their expenses. The application also provides a graphical representation of the expenses in the form of a pie chart. (The web application is hosted on a free server so it takes a lot of time to load)`,
+    languages: [
+      'React.js',
+      'Node.js',
+      'TypeScript',
+      'MongoDB',
+      'Express',
+      'TailwindCSS',
+      'Apache ECharts',
+    ],
+  },
   {
     name: 'BlogSite',
     image: blogSiteImg,
