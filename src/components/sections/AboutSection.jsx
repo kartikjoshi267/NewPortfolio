@@ -11,11 +11,16 @@ const AboutSection = () => {
       />
       <div className="text-2xl lg:text-3xl">
         <p>
-          Passionate Full Stack Web Developer with expertise in MERN Stack and a
-          strong background in programming languages like C, C++, Java, Python,
-          TypeScript and JavaScript. Also have a basic understanding about some
-          popular DevOps tools like Docker, Jenkins (CI/CD Pipelining), and
-          Kubernetes. Also, I'm an{' '}
+          I am an <strong>Associate Software Engineer at Yamaha Motor Solutions India
+          Ltd (YMSLI)</strong>, working on <strong>SAP ABAP</strong> development including RICEFW, ALV,
+          OOABAP, OData, RAP, and Fiori.
+        </p>
+        <br/>
+        <p>
+          Alongside my professional role, I am passionate about Full Stack Web
+          Development, with hands-on experience in the MERN stack (MongoDB,
+          Express.js, React, Node.js). I’ve also explored DevOps tools such as
+          Docker, Jenkins (CI/CD), and Kubernetes, and hold an{' '}
           <a
             className="text-white hover:text-teal-300"
             href="https://drive.google.com/file/d/1z6_stn1rPSktISAzS5s53Q7_4CFb6-50/view?usp=drive_link"
@@ -23,16 +28,22 @@ const AboutSection = () => {
             rel="noopener noreferrer"
           >
             AWS Certified Cloud Practitioner
-          </a>
-          .
+          </a>{' '}credential.
+        </p>
+        <br/>
+        <p>
+          My background in programming languages (JavaScript, TypeScript,
+          Python, Java, C, C++) and my exposure to enterprise-level SAP
+          implementations equip me with both enterprise ERP development and
+          modern web application development skills.
+        </p>
+        <br/>
+        <p>
+          Currently open to opportunities in SAP ABAP, Full Stack Web
+          Development, or Cloud-based roles. Let’s connect to build innovative
+          solutions together!
         </p>
         <br />
-        <p>
-          Committed to delivering user-friendly web applications and
-          continuously exploring new technologies. Open to exciting
-          opportunities in web development. Let's connect and create something
-          amazing together!
-        </p>
       </div>
     </>
   )

@@ -10,9 +10,9 @@ const IntroSection = () => {
       >
         Kartik Joshi
       </Link>
-      <h2 className="mt-4 text-4xl font-semibold">Full Stack Web Developer</h2>
+      <h2 className="mt-4 text-4xl font-semibold">Associate Software Engineer (SAP ABAP)</h2>
       <p className="mt-10 text-3xl text-gray-400 w-3/4">
-        I build amazing and valuable projects for the web.
+        I build business applications using SAP ABAP and other technologies.
       </p>
     </div>
   )

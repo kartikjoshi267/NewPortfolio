@@ -14,28 +14,28 @@ const RightSideContainer = () => {
         id="about"
         className="text-gray-400 text-3xl mb-40 flex flex-col items-center justify-center gap-8"
       >
-        <SectionHeading text={"About"} />
+        <SectionHeading text={'About'} />
         <AboutSection />
       </section>
 
       <section id="experience" className="mb-40">
-      <SectionHeading text={"Experience"} />
+        <SectionHeading text={'Experience'} />
         <Experiences />
       </section>
 
       <section id="skills" className="mb-40">
-      <SectionHeading text={"Skills"} />
+        <SectionHeading text={'Skills'} />
         <Skills />
       </section>
 
       <section id="projects" className="mb-28">
-      <SectionHeading text={"Projects"} />
+        <SectionHeading text={'Projects'} />
         <Projects />
       </section>
 
       <section id="contact" className="mb-40">
-      <SectionHeading text={"Contact"} />
-      <Contact />
+        <SectionHeading text={'Contact'} />
+        <Contact />
       </section>
 
       <Footer />

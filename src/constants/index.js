@@ -119,26 +119,33 @@ export const projects = [
 ]
 
 const experiences = [
-  {
-    designation: 'Open Source Contributor',
-    organization: 'HacktoberFest 2022',
-    start: 'OCT 2022',
-    end: 'OCT 2022',
-    description: `Open source contribution encourages collaboration among developers around the world. Contributing to open source projects is an excellent way to enhance your programming skills. Potential employers or clients often look for evidence of your ability to work in a team, write quality code, and contribute to open source projects.`,
-  },
-  {
-    designation: 'Open Source Contributor',
-    organization: 'GirlScript Summer of Code 2023',
-    start: 'MAY 2023',
-    end: 'JUL 2023',
-    description: `Open source contribution encourages collaboration among developers around the world. Contributing to open source projects is an excellent way to enhance your programming skills. Potential employers or clients often look for evidence of your ability to work in a team, write quality code, and contribute to open source projects.`,
-  },
+  // {
+  //   designation: 'Open Source Contributor',
+  //   organization: 'HacktoberFest 2022',
+  //   start: 'OCT 2022',
+  //   end: 'OCT 2022',
+  //   description: `Open source contribution encourages collaboration among developers around the world. Contributing to open source projects is an excellent way to enhance your programming skills. Potential employers or clients often look for evidence of your ability to work in a team, write quality code, and contribute to open source projects.`,
+  // },
+  // {
+  //   designation: 'Open Source Contributor',
+  //   organization: 'GirlScript Summer of Code 2023',
+  //   start: 'MAY 2023',
+  //   end: 'JUL 2023',
+  //   description: `Open source contribution encourages collaboration among developers around the world. Contributing to open source projects is an excellent way to enhance your programming skills. Potential employers or clients often look for evidence of your ability to work in a team, write quality code, and contribute to open source projects.`,
+  // },
   {
     designation: 'Web Development Intern',
     organization: 'Seequenze Technologies Pvt. Ltd.',
     start: 'JAN 2024',
     end: 'MAR 2024',
     description: `Addressed bugs and introduced new features like integration of GitHub and Google OAuth. Worked on error handling tasks. Worked on AWS S3 to optimize data storage and retrieval processes within Necleo. Worked with DynamoDB to store some essential details with varied schema. Worked on code generation figma plugin for Necleo. Helped in re-designing the UI of the plugin. Involved in development of a Jenkins pipeline.`,
+  },
+  {
+    designation: 'Associate Software Engineer',
+    organization: 'Yamaha Motor Solutions India Ltd.',
+    start: 'JAN 2025',
+    end: 'PRESENT',
+    description: `Working on SAP ABAP development including RICEFW, ALV, OOABAP, OData, RAP, and Fiori.`,
   },
 ]
 
