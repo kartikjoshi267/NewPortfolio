@@ -141,11 +141,18 @@ const experiences = [
     description: `Addressed bugs and introduced new features like integration of GitHub and Google OAuth. Worked on error handling tasks. Worked on AWS S3 to optimize data storage and retrieval processes within Necleo. Worked with DynamoDB to store some essential details with varied schema. Worked on code generation figma plugin for Necleo. Helped in re-designing the UI of the plugin. Involved in development of a Jenkins pipeline.`,
   },
   {
-    designation: 'Associate Software Engineer',
+    designation: 'Graduate Engineer Trainee',
     organization: 'Yamaha Motor Solutions India Ltd.',
     start: 'JAN 2025',
+    end: 'JUL 2025',
+    description: ``,
+  },
+  {
+    designation: 'Associate Software Engineer',
+    organization: 'Yamaha Motor Solutions India Ltd.',
+    start: 'JUL 2025',
     end: 'PRESENT',
-    description: `Working on SAP ABAP development including RICEFW, ALV, OOABAP, OData, RAP, and Fiori.`,
+    description: `Working on SAP ABAP development including RICEFW, ALV, OOABAP, OData, RAP, and Fiori. Developed ABAP reports for business requirements of Yamaha Motor Co. Ltd.`,
   },
 ]
 
